@@ -1,0 +1,38 @@
+[	
+	{
+		"firstName": "Abhijit",
+		"lastName": "Das",
+		"age": 25,
+		"emailAddress": "abhijit18aug@Gmail.com",
+		"address": {
+			"streetAddress": "469 PN Dey Road",
+			"city": "Kolkata",
+			"postCode": "700032",
+			"state": "West Bengal",
+			"country": "India",
+			"county": "West Bengal"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "09089793810"
+		}
+	},
+	{
+		"firstName": "Avishek",
+		"lastName": "Tarafdar",
+		"age": 24,
+		"emailAddress": "avishektarafdar@Gmail.com",
+		"address": {
+			"streetAddress": "Behala",
+			"city": "Kolkata",
+			"postCode": "700012",
+			"state": "West Bengal",
+			"country": "India",
+			"county": "West Bengal"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "09831922926"
+		}
+	}
+]
